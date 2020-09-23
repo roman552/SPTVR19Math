@@ -45,6 +45,6 @@ class App {
             System.out.println("срочно учи таблицу умножения");
         }
                 
-        System.out.println("---Konec programmy---");
+        System.out.println("---Конец программы---");
     }
 }
