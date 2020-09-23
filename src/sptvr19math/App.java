@@ -37,11 +37,11 @@ class App {
             System.out.println("молодец!");
         }
         if (t<5) {
-            if (t>=1) {
+            if (t>=2) {
                 System.out.println("нужно подучить");
             }
         } 
-        if (t==0){
+        if (t<=1){
             System.out.println("срочно учи таблицу умножения");
         }
                 
