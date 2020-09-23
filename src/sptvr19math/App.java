@@ -42,7 +42,7 @@ class App {
             }
         } 
         if (t==0){
-            System.out.println("учи уроки");
+            System.out.println("срочно учи таблицу умножения");
         }
                 
         System.out.println("---Konec programmy---");
